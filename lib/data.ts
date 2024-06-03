@@ -75,7 +75,7 @@ export const projectsData = [
   {
     title: "Movie app",
     description:
-      "I build this project for my personal fun . I created search movies , watched and watchlist",
+      "I did this project for my personal fun . I created search movies , watched and watchlist",
     tags: ["React", "Redux"],
     imageUrl: movieappImg,
   },
@@ -115,11 +115,8 @@ export const skillsData = [
   "Prisma",
   "MongoDB",
   "Redux",
-  "GraphQL",
-  "Apollo",
   "Express",
-  "PostgreSQL",
-  "Python",
-  "Django",
+  "wordpress",
+  "php",
   "Framer Motion",
 ] as const;
